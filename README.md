@@ -1,7 +1,4 @@
-# fast-dashboard
-
-
-# {Project Name Placeholder} - A Fyne Dashboard Application
+# fast-dashboard - A Fyne Dashboard Application
 
 This project is a dashboard application built with Go and the [Fyne](https://fyne.io/) GUI toolkit. It was bootstrapped using a Go script designed to generate a basic project structure with customizable tabs.
 
