@@ -1,7 +1,6 @@
 # fast-dashboard - A Fyne Dashboard Application
 
-A Go script designed to bootstrap Fyne-based dashboard applications. Its key feature is the ability to generate a foundational project structure where the initial dashboard tabs can be dynamically named by the developer during the setup process."
-
+A Go script designed to bootstrap dashboard applications which feature a Graphical User Interface (GUI) built using the Fyne toolkit. Its key feature is the ability to generate a foundational project structure where the initial dashboard tabs, part of this Fyne-generated GUI, can be dynamically named by the developer during setup.
 
 
 ## Overview
